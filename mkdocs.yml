@@ -1,0 +1,32 @@
+site_name: Obsidian
+site_description: 'Obsidian.md Notes via Mkdocs.'
+site_author: 'relgisri'
+docs_dir: './test'
+
+# Fail to build if we have broken links
+strict: false
+
+# Copyright
+copyright: 'Copyright &copy; 2021 relgisri'
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+theme:
+  name: 'material'
+  feature:
+    tabs: false
+  palette:
+    primary: 'blue grey'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+    code: 'Cascadia Code PL'
+  social:
+    - type: 'github'
+      link: 'https://github.com/relgisri'
+    - type: 'twitter'
+      link: 'https://twitter.com/0xE02B7'
