@@ -36,5 +36,5 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/relgisri
-    - type: fontawesome/brands/twitter
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/0xE02B7
