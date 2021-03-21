@@ -3,7 +3,6 @@ site_description: 'Obsidian.md Notes via Mkdocs.'
 site_author: 'relgisri'
 docs_dir: './test'
 repo_url: https://github.com/relgisri/obsidian-vault
-dev_addr: '127.0.0.1:8000'
 
 # Fail to build if we have broken links
 strict: false
@@ -16,6 +15,7 @@ plugins:
   - search
   - minify:
       minify_html: true
+      minify_js: true
 
 theme:
   name: material  
