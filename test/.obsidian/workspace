@@ -10,11 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "I love you.md",
-=======
-            "file": "Fail2Ban.md",
->>>>>>> ec6fe50c29f9c130089209e649d11d180a41de99
             "mode": "source"
           }
         }
@@ -73,11 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "I love you.md",
-=======
-                "file": "Fail2Ban.md",
->>>>>>> ec6fe50c29f9c130089209e649d11d180a41de99
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,21 +86,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "I love you.md",
+    "MongoDB.md",
     "Untitled.md",
-<<<<<<< HEAD
     "SSH.md",
-=======
-    "MongoDB.md",
-    "Docker.md",
->>>>>>> ec6fe50c29f9c130089209e649d11d180a41de99
     "README.md",
-    "MongoDB.md",
     "Docker.md",
     "MySQL.md",
-<<<<<<< HEAD
-=======
-    "SSH.md",
->>>>>>> ec6fe50c29f9c130089209e649d11d180a41de99
     "README.md.md",
     "GitHub/github-action.yml.md",
     "GitHub/hello-world.md.md"
