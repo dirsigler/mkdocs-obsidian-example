@@ -1,6 +1,7 @@
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 #.obsidian/
 site/**
+.obsidian/workspace
 
 # Add below lines to exclude OS settings and caches
 .trash/
