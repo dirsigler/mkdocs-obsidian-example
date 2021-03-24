@@ -2,5 +2,5 @@
 
 This is an example to showcase how you can boost your knowledge base by  moving all your personal notes, cheatsheets, diagrams and so forth to a Markdown based system.
 
-In this case [Obsidian](https://obsidian.md/) is used as an Markdown Editor available for all common graphical OS. Obsidian is
+All files reside on your local filesystem as long as you don't want to commit them to a Git repository as done [here](./obsidian).
 
