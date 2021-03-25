@@ -1,4 +1,6 @@
-# mkdocs-obsidian-example
+# README
+
+## mkdocs-obsidian-example
 
 This is an example to showcase how you can boost your knowledge base by  moving all your personal notes, cheatsheets, diagrams and so forth to a Markdown based system.
 
