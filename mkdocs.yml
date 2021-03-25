@@ -1,9 +1,9 @@
 site_name: Obsidian
 site_description: 'Obsidian.md Notes via Mkdocs.'
 site_author: 'relgisri'
-site_url: https://obsidian.datensturm.net
-docs_dir: './test'
-repo_url: https://github.com/relgisri/obsidian-vault/
+site_url: https://obsidian.example.datensturm.net
+docs_dir: './obsidian'
+repo_url: https://github.com/relgisri/mkdocs-obsidian-example/
 
 # Fail to build if we have broken links
 strict: false
