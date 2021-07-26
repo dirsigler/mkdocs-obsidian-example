@@ -1,15 +1,15 @@
 site_name: mkdocs-obsidian-example
 site_description: 'Obsidian.md Notes via Mkdocs.'
-site_author: 'relgisri'
-site_url: https://obsidian.example.datensturm.net
-docs_dir: './obsidian'
-repo_url: https://github.com/relgisri/mkdocs-obsidian-example/
+site_author: 'Dennis Irsigler'
+site_url: https://obsidian.example.irsigler.cloud
+docs_dir: './content'
+repo_url: https://github.com/dirsigler/mkdocs-obsidian-example/
 
 # Fail to build if we have broken links
 strict: false
 
 # Copyright
-copyright: 'Copyright &copy; 2021 relgisri'
+copyright: 'Copyright &copy; 2021 Dennis Irsigler'
 
 # Plugins
 plugins:
@@ -36,6 +36,6 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/relgisri
+      link: https://github.com/dirsigler
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/0xE02B7
+      link: https://twitter.com/dirsigler
