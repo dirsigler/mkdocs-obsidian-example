@@ -9,7 +9,7 @@ repo_url: https://github.com/dirsigler/mkdocs-obsidian-example/
 strict: false
 
 # Copyright
-copyright: 'Copyright &copy; 2021 Dennis Irsigler'
+copyright: 'Copyright &copy; 2022 Dennis Irsigler'
 
 # Plugins
 plugins:
@@ -19,7 +19,7 @@ plugins:
       minify_js: true
 
 theme:
-  name: material  
+  name: material
   language: en
   palette:
     scheme: slate
